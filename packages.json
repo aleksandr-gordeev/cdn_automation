@@ -1,0 +1,23 @@
+{
+    "@procore/cdn-translations": "^0.1.12",
+    "@procore/globalization-toolkit": "^3.5.0",
+    "@procore/core-react": "^12.23.0",
+    "@procore/data-table": "^14.34.0",
+    "@procore/labs-configurable-views": "^9.0.0",
+    "@procore/bim-docs-publish-panel": "^6.0.0",
+    "@procore/bim-viewpoint-extraction-ui-component": "^0.4.0",
+    "@procore/notifications-ui": "^0.1.0",
+    "@procore/activity-feed": "^5.0.0",
+    "@procore/change-history-table": "^5.0.0",
+    "@procore/company-select": "^3.0.0",
+    "@procore/file-save-logs": "^2.0.0",
+    "@procore/location-picker": "^5.0.0",
+    "@procore/notifications-settings": "^2.0.0",
+    "@procore/permissions-table": "^2.0.0",
+    "@procore/project-selection": "^0.2.0",
+    "@procore/timezone-select": "^3.0.0",
+    "@procore/users-select": "^6.0.0",
+    "@procore/bidding-single-contractor-view-ui": "^0.8.0",
+    "@procore/groups-select": "^0.3.0",
+    "@procore/rp-person-detail": "^0.5.0"
+}
